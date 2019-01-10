@@ -2,7 +2,7 @@
 
 ## 请求地址和参数说明
 对接使用form提交，[提交地址](https://www.ibeidiao.com/ciic/login.htm)<br />
-POST请求<br />
+**POST**请求<br />
 请求参数需要四个参数，如下
 
 参数|类型|必填|备注
