@@ -1,7 +1,7 @@
 # 免登录对接说明
 
 ## 请求地址和参数说明
-对接使用form提交，提交地址：https://www.ibeidiao.com/ciic/login.htm<br />
+对接使用form提交，提交地址：[提交地址](https://www.ibeidiao.com/ciic/login.htm)<br />
 POST请求<br />
 请求参数需要四个参数，如下
 
@@ -18,3 +18,5 @@ V1：手机号码<br />
 V2：当前时间戳<br />
 V3：值为10<br />
 **请注意参数顺序**
+
+##  注意事项
