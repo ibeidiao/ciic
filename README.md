@@ -26,6 +26,7 @@ V3：值为10<br />
 ```JavaScript
 $('body').on('click', '.go-bd', function(e) {
   var $this = $(this);
+  
   $.ajax({
     async : true, 
     url : 本地获取登录参数url,
